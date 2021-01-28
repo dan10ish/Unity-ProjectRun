@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project_Run",
+"productVersion": "0.1",
+"dataUrl": "FZ Cube.data.unityweb",
+"wasmCodeUrl": "FZ Cube.wasm.code.unityweb",
+"wasmFrameworkUrl": "FZ Cube.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
